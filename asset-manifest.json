@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/WebDeveloperPortfolio/static/css/main.86d374cc.chunk.css",
+    "main.js": "/WebDeveloperPortfolio/static/js/main.2d5fc0fb.chunk.js",
+    "main.js.map": "/WebDeveloperPortfolio/static/js/main.2d5fc0fb.chunk.js.map",
+    "runtime-main.js": "/WebDeveloperPortfolio/static/js/runtime-main.ef69b297.js",
+    "runtime-main.js.map": "/WebDeveloperPortfolio/static/js/runtime-main.ef69b297.js.map",
+    "static/js/2.33fe83dc.chunk.js": "/WebDeveloperPortfolio/static/js/2.33fe83dc.chunk.js",
+    "static/js/2.33fe83dc.chunk.js.map": "/WebDeveloperPortfolio/static/js/2.33fe83dc.chunk.js.map",
+    "index.html": "/WebDeveloperPortfolio/index.html",
+    "precache-manifest.d67d359c3894ac3c48bc27058abf96ee.js": "/WebDeveloperPortfolio/precache-manifest.d67d359c3894ac3c48bc27058abf96ee.js",
+    "service-worker.js": "/WebDeveloperPortfolio/service-worker.js",
+    "static/css/main.86d374cc.chunk.css.map": "/WebDeveloperPortfolio/static/css/main.86d374cc.chunk.css.map",
+    "static/js/2.33fe83dc.chunk.js.LICENSE.txt": "/WebDeveloperPortfolio/static/js/2.33fe83dc.chunk.js.LICENSE.txt",
+    "static/media/craigslist.jpg": "/WebDeveloperPortfolio/static/media/craigslist.f9a93d85.jpg",
+    "static/media/doggierope.jpg": "/WebDeveloperPortfolio/static/media/doggierope.051524a8.jpg",
+    "static/media/horrorhospital.jpg": "/WebDeveloperPortfolio/static/media/horrorhospital.25306442.jpg",
+    "static/media/portfolioProfilePic.jpg": "/WebDeveloperPortfolio/static/media/portfolioProfilePic.60783922.jpg",
+    "static/media/quizbook.jpg": "/WebDeveloperPortfolio/static/media/quizbook.3cfa9ac7.jpg",
+    "static/media/style.css": "/WebDeveloperPortfolio/static/media/tree.bd614d78.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef69b297.js",
+    "static/js/2.33fe83dc.chunk.js",
+    "static/css/main.86d374cc.chunk.css",
+    "static/js/main.2d5fc0fb.chunk.js"
+  ]
+}
